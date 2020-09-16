@@ -46,8 +46,24 @@ class Song:
 
         return self
 
-    # def get_current_nails(self):
-    #     return self.nails
-
 new_song = Song(title="virsraksts", lyrics=("rinda 1","rinda 2","rinda 3"))
-new_song.sing(1).yell()
+# new_song.sing(1).yell()
+
+
+class Rap(Song):
+
+    def __init__(self, title="", author="", lyrics=(), master_c = ""):
+       super().__init__(title="", author="", lyrics=())
+       self.master_c = master_c
+
+    def break_it(self, max_lines = -1, drop = "yeah"):
+        self.max_lines = max_lines
+        self.drop = drop
+
+        self.spell_title_author()
+
+#this is where the breaking goes
+
+        return self
+
+
