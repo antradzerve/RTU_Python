@@ -51,4 +51,9 @@ elems = clothing_full_list.find_elements_by_xpath("//a[@href]")
 for elem in elems:
     print(elem.get_attribute("href"))
 
+# for elem in elems:
+#     new_elem = elem.get_attribure("href")
+#     new_elem.click()
+    
+
 
