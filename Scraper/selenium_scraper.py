@@ -8,9 +8,13 @@ from selenium.common.exceptions import TimeoutException
 import pandas as pd
 import dbm
 import time
+import json
 
 option = webdriver.ChromeOptions()
 option.add_argument(' — incognito')
+
+# does the task without opening browser window, but something lagged
+# option.add_argument('headless')
 driver = webdriver.Chrome(executable_path='chromedriver', chrome_options=option)
 
 driver.get('https://printify.com/app/products')
@@ -45,15 +49,59 @@ except TimeoutException:
     print('Timed out waiting for page to load')
     driver.quit()
 
-clothing_full_list = driver.find_element_by_xpath('/html/body/div[1]/main/div[2]/div/div[2]/div/div/div[2]')
+clothing_full_list = driver.find_elements_by_tag_name('article')
 
-elems = clothing_full_list.find_elements_by_xpath("//a[@href]")
-for elem in elems:
-    print(elem.get_attribute("href"))
+link_list = []
+for clothing in clothing_full_list:
+    elem = clothing.find_elements_by_tag_name('a')[0]
+    link_list.append(elem.get_attribute('href'))
 
-# for elem in elems:
-#     new_elem = elem.get_attribure("href")
-#     new_elem.click()
+scraped_info = []
+
+for link in link_list:
+    driver.get(link)
+    try:
+        WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.CLASS_NAME, "description")))
+    except TimeoutException:
+        print('Timed out waiting for page to load')
+        driver.quit()
+
+    product_name = driver.find_elements_by_class_name('description')[0].find_elements_by_tag_name('h1')[0].text
+    brand = driver.find_elements_by_class_name('brand')[0].text
+    providers = driver.find_elements_by_class_name('bp-print-provider')
+    provider_results = []
+
+    for ind_prov in providers:
+        provider_name = ind_prov.find_elements_by_class_name('text-ellipsis')[0].text
+        items = ind_prov.find_elements_by_class_name('item')
+        price = items[2].text
+        shipping = items[3].text
+        sizes = items[6].text
+        avg_production_time = items[7].text
+
+        provider_dict = {
+            "Provider name": provider_name,
+            "Price": price,
+            "Shipping cost": shipping,
+            "Sizes": sizes,
+            "Average production time": avg_production_time
+        }
+
+        provider_results.append(provider_dict)
+
+    product_info = {
+        "Product name": product_name,
+        "Brand": brand,
+        "Providers": provider_results
+    }
+
+    scraped_info.append(product_info)
+
+with open('data.json', 'w') as output_file:
+    json.dump(scraped_info, output_file)
+
+driver.quit()
+
     
 
 

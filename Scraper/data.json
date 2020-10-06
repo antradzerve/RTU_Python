@@ -1,0 +1,1528 @@
+[
+    {
+        "Product name": "Men's Cotton Crew Tee",
+        "Brand": "Next Level 3600",
+        "Providers": [
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 10.85",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.17 business days"
+            },
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 8.40",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 9.59",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.21 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 9.26",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 4XL",
+                "Average production time": "4.58 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 12.00",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 10.56",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 3XL",
+                "Average production time": "3.83 business days"
+            },
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 9.32",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "XS - 4XL",
+                "Average production time": "5.27 business days"
+            },
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 13.74",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "XS - 4XL",
+                "Average production time": "3.80 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Heavy Cotton Tee",
+        "Brand": "Gildan 5000",
+        "Providers": [
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 9.33",
+                "Shipping cost": "From USD 4.40",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 7.91",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "1.15 business days"
+            },
+            {
+                "Provider name": "Duplium",
+                "Price": "From USD 7.21",
+                "Shipping cost": "From USD 6.15",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.40 business days"
+            },
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 7.27",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.25 business days"
+            },
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 9.34",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 5XL",
+                "Average production time": "1.45 business days"
+            },
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 9.51",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.12 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 11.19",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 8.06",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.96 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 10.54",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.72 business days"
+            },
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 10.76",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "S - 5XL",
+                "Average production time": "3.28 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 12.25",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 5XL",
+                "Average production time": "3.58 business days"
+            },
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 10.01",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.31 business days"
+            },
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 7.85",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 5XL",
+                "Average production time": "4.19 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 8.12",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.83 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 6.82",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.48 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Jersey Short Sleeve Tee",
+        "Brand": "Bella+Canvas 3001",
+        "Providers": [
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 9.21",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.20 business days"
+            },
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 7.64",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.86 business days"
+            },
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 10.82",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.26 business days"
+            },
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 12.62",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.29 business days"
+            },
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 9.59",
+                "Shipping cost": "From USD 4.40",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Duplium",
+                "Price": "From USD 9.84",
+                "Shipping cost": "From USD 6.15",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.51 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 11.93",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 8.46",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 3XL",
+                "Average production time": "3.17 business days"
+            },
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 11.18",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.75 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 14.75",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.45 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 6.76",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.63 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 8.49",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 4XL",
+                "Average production time": "4.77 business days"
+            },
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 8.95",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.70 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 12.25",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.52 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Lightweight Fashion Tee",
+        "Brand": "Anvil 980",
+        "Providers": [
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 9.40",
+                "Shipping cost": "From USD 4.40",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 12.04",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 8.57",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Short Sleeve Tee",
+        "Brand": "Delta 11730",
+        "Providers": [
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 7.99",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.27 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 7.76",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.92 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Ultra Cotton Tee",
+        "Brand": "Gildan 2000",
+        "Providers": [
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 7.52",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 9.84",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 5XL",
+                "Average production time": "1.83 business days"
+            },
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 9.33",
+                "Shipping cost": "From USD 4.40",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 8.12",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.42 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 8.36",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.50 business days"
+            },
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 8.22",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 7.76",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.62 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 11.97",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "S - 5XL",
+                "Average production time": "3.20 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Jersey Short Sleeve V-Neck Tee",
+        "Brand": "Bella+Canvas 3005",
+        "Providers": [
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 13.55",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.90 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 18.25",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.15 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 12.67",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.22 business days"
+            },
+            {
+                "Provider name": "Duplium",
+                "Price": "From USD 11.87",
+                "Shipping cost": "From USD 6.15",
+                "Sizes": "XS - 2XL",
+                "Average production time": "1.40 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 10.51",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.28 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 13.90",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.44 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 10.49",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.69 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Fitted V-Neck Short Sleeve Tee",
+        "Brand": "Gildan 64V00",
+        "Providers": [
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 11.87",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.55 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 12.55",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.43 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Softstyle T-Shirt",
+        "Brand": "Gildan 64000",
+        "Providers": [
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 8.61",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 4XL",
+                "Average production time": "2.38 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 7.19",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.17 business days"
+            },
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 9.31",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.71 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 10.34",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Duplium",
+                "Price": "From USD 6.39",
+                "Shipping cost": "From USD 6.15",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.50 business days"
+            },
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 6.55",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 8.44",
+                "Shipping cost": "From USD 4.40",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 10.33",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.53 business days"
+            },
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 8.56",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 11.09",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.33 business days"
+            },
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 6.69",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.13 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 7.30",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 8.33",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.08 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex AOP Cut & Sew Tee",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "MWW On Demand",
+                "Price": "From USD 20.81",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "6.60 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Heather Dri-Fit Tee",
+        "Brand": "Sport-Tek ST360",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 16.46",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Ringer Tee",
+        "Brand": "Generic brand PC54R",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 13.30",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 4XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Triblend Tee",
+        "Brand": "Bella+Canvas 3413",
+        "Providers": [
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 14.18",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Staple Tee",
+        "Brand": "AS Colour 5001",
+        "Providers": [
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 14.30",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "S - 5XL",
+                "Average production time": "3.45 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Single Jersey Men's T-shirt",
+        "Brand": "B&C TU03T",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 10.18",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "XS - 5XL",
+                "Average production time": "2.63 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Lightweight V-Neck Tee",
+        "Brand": "Anvil 982",
+        "Providers": [
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 9.90",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Tri-Blend Crew Tee",
+        "Brand": "Next Level 6010",
+        "Providers": [
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 13.09",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.28 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Organic Creator T-shirt - Unisex",
+        "Brand": "Stanley Stella STTU755",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 14.12",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "XXS - 5XL",
+                "Average production time": "2.29 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Modern-fit Tee",
+        "Brand": "SG Clothing SGTEE",
+        "Providers": [
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 11.46",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 5XL",
+                "Average production time": "1.68 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men\u2019s Presenter V-neck",
+        "Brand": "Stanley Stella STTM562",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 17.46",
+                "Shipping cost": "From USD 3.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Deluxe T-shirt",
+        "Brand": "Lane Seven LS15000",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 12.24",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "XS - 3XL",
+                "Average production time": "2.38 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Champion T-Shirt",
+        "Brand": "Champion T425",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 18.28",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Heavy Blend\u2122 Full Zip Hooded Sweatshirt",
+        "Brand": "Gildan 18600",
+        "Providers": [
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 19.01",
+                "Shipping cost": "From USD 8.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.29 business days"
+            },
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 30.99",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "S - 3XL",
+                "Average production time": "5.43 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Heavy Blend\u2122 Hooded Sweatshirt",
+        "Brand": "Gildan 18500",
+        "Providers": [
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 20.52",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "4.30 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 16.15",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.19 business days"
+            },
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 15.22",
+                "Shipping cost": "From USD 9.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 17.58",
+                "Shipping cost": "From USD 8.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "1.31 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 20.00",
+                "Shipping cost": "From USD 7.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.40 business days"
+            },
+            {
+                "Provider name": "Duplium",
+                "Price": "From USD 15.90",
+                "Shipping cost": "From USD 8.50",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.45 business days"
+            },
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 20.03",
+                "Shipping cost": "From USD 8.50",
+                "Sizes": "S - 4XL",
+                "Average production time": "2.78 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 16.10",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 5XL",
+                "Average production time": "3.11 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 22.79",
+                "Shipping cost": "From USD 8.00",
+                "Sizes": "S - L",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Full Zip Hoodie",
+        "Brand": "AWDIS JH050",
+        "Providers": [
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 30.75",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.65 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 29.37",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.62 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex College Hoodie",
+        "Brand": "AWDIS JH001",
+        "Providers": [
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 25.04",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.44 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 23.30",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "XS - 2XL",
+                "Average production time": "3.35 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 26.22",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "XS - 2XL",
+                "Average production time": "3.56 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's NUBLEND\u00ae Hooded Sweatshirt",
+        "Brand": "Fruit Of The Loom 996MR",
+        "Providers": [
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 15.22",
+                "Shipping cost": "From USD 9.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Zip Up Hoodie",
+        "Brand": "Gildan 18600 Embroidery",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 31.33",
+                "Shipping cost": "From USD 7.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Premium Full Zip Hoodie",
+        "Brand": "Lane Seven LS14003",
+        "Providers": [
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 35.66",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "4.07 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Premium Pullover Hoodie",
+        "Brand": "Lane Seven LS14001",
+        "Providers": [
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 22.70",
+                "Shipping cost": "From USD 8.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 21.27",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "XS - 2XL",
+                "Average production time": "3.43 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 31.01",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - XL",
+                "Average production time": "3.53 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "AOP Unisex Pullover Hoodie",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "MWW On Demand",
+                "Price": "From USD 49.96",
+                "Shipping cost": "From USD 11.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "AOP Unisex Zip Hoodie",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "MWW On Demand",
+                "Price": "From USD 53.85",
+                "Shipping cost": "From USD 11.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Pullover Hoodie",
+        "Brand": "B&C WUI24",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 17.00",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.53 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Hooded Zip Sweatshirt",
+        "Brand": "B&C WUI25",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 23.49",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.83 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Cultivator Zip Hoodie",
+        "Brand": "Stanley Stella STSM566",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 40.09",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.80 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Cruiser Hoodie",
+        "Brand": "Stanley Stella STSU822",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 38.40",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.10 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Champion Hoodie",
+        "Brand": "Champion S700",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 34.70",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Heavy Blend\u2122 Crewneck Sweatshirt",
+        "Brand": "Gildan 18000",
+        "Providers": [
+            {
+                "Provider name": "Printforia",
+                "Price": "From USD 15.31",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.78 business days"
+            },
+            {
+                "Provider name": "Drive Fulfillment",
+                "Price": "From USD 16.21",
+                "Shipping cost": "From USD 8.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 11.55",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.67 business days"
+            },
+            {
+                "Provider name": "SwiftPOD",
+                "Price": "From USD 11.16",
+                "Shipping cost": "From USD 9.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 14.63",
+                "Shipping cost": "From USD 8.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.54 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 16.96",
+                "Shipping cost": "From USD 7.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 13.94",
+                "Shipping cost": "From USD 6.00",
+                "Sizes": "S - 4XL",
+                "Average production time": "3.01 business days"
+            },
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 12.52",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.81 business days"
+            },
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 22.61",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "S - 4XL",
+                "Average production time": "3.41 business days"
+            },
+            {
+                "Provider name": "Duplium",
+                "Price": "From USD 10.76",
+                "Shipping cost": "From USD 8.50",
+                "Sizes": "S - 3XL",
+                "Average production time": "1.46 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Sweatshirt",
+        "Brand": "AWDIS JH030",
+        "Providers": [
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 20.66",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.54 business days"
+            },
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 18.94",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.54 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 21.03",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.56 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Premium Crewneck Sweatshirt",
+        "Brand": "Lane Seven LS14004",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 19.18",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.60 business days"
+            },
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 25.94",
+                "Shipping cost": "From USD 9.90",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.00 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 28.03",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.67 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "AOP Unisex Sweatshirt",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "MWW On Demand",
+                "Price": "From USD 31.49",
+                "Shipping cost": "From USD 5.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "8.14 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Crew Neck Sweatshirt",
+        "Brand": "B&C WUI23",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 13.45",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.56 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Rise Sweatshirt",
+        "Brand": "Stanley Stella STSU811",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 29.24",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.47 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Champion Sweatshirt",
+        "Brand": "Champion S600",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 27.39",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Jersey Long Sleeve Tee",
+        "Brand": "Bella+Canvas 3501",
+        "Providers": [
+            {
+                "Provider name": "The Dream Junction",
+                "Price": "From USD 14.30",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.30 business days"
+            },
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 16.76",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.83 business days"
+            },
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 16.90",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 17.43",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.53 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Long Sleeve Crew Tee",
+        "Brand": "Next Level 3601",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 16.66",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex 3/4 Sleeve Baseball Tee",
+        "Brand": "Bella+Canvas 3200",
+        "Providers": [
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 16.64",
+                "Shipping cost": "From USD 7.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.62 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Ultra Cotton Long Sleeve Tee",
+        "Brand": "Gildan 2400",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 14.40",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "OPT OnDemand",
+                "Price": "From USD 15.93",
+                "Shipping cost": "From USD 4.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "1.44 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 15.87",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.43 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Tri-Blend 3/4 Raglan Tee",
+        "Brand": "Next Level 6051",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 17.40",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Stoked On Printing",
+                "Price": "From USD 14.55",
+                "Shipping cost": "From USD 4.80",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Monster Digital",
+                "Price": "From USD 13.85",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Long Sleeve Moisture Absorbing Tee",
+        "Brand": "Sport-Tek ST350LS",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 16.46",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.00 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Zip Up Hoodie",
+        "Brand": "Gildan 18600 Embroidery",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 31.33",
+                "Shipping cost": "From USD 7.00",
+                "Sizes": "S - 5XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Varsity Jacket",
+        "Brand": "Sport-Tek ST270 Embroidery",
+        "Providers": [
+            {
+                "Provider name": "MyLocker",
+                "Price": "From USD 43.07",
+                "Shipping cost": "From USD 4.00",
+                "Sizes": "XS - 4XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Premium Crewneck Sweatshirt",
+        "Brand": "Lane Seven LS14004",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 19.18",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 3XL",
+                "Average production time": "2.60 business days"
+            },
+            {
+                "Provider name": "Print Geek",
+                "Price": "From USD 25.94",
+                "Shipping cost": "From USD 9.90",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.00 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 28.03",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - 2XL",
+                "Average production time": "3.67 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Premium Pullover Hoodie",
+        "Brand": "Lane Seven LS14001",
+        "Providers": [
+            {
+                "Provider name": "Stakes Manufacturing",
+                "Price": "From USD 22.70",
+                "Shipping cost": "From USD 8.50",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            },
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 21.27",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "XS - 2XL",
+                "Average production time": "3.43 business days"
+            },
+            {
+                "Provider name": "T shirt and Sons",
+                "Price": "From USD 31.01",
+                "Shipping cost": "From USD 4.59",
+                "Sizes": "S - XL",
+                "Average production time": "3.53 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's AOP Bomber Jacket",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "ArtsAdd",
+                "Price": "From USD 49.25",
+                "Shipping cost": "From USD 1.20",
+                "Sizes": "XS - 3XL",
+                "Average production time": "4.80 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "AOP Unisex Pullover Hoodie",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "MWW On Demand",
+                "Price": "From USD 49.96",
+                "Shipping cost": "From USD 11.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "AOP Unisex Zip Hoodie",
+        "Brand": "Generic brand",
+        "Providers": [
+            {
+                "Provider name": "MWW On Demand",
+                "Price": "From USD 53.85",
+                "Shipping cost": "From USD 11.00",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Hooded Zip Sweatshirt",
+        "Brand": "B&C WUI25",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 23.49",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "XS - 2XL",
+                "Average production time": "2.83 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men's Cultivator Zip Hoodie",
+        "Brand": "Stanley Stella STSM566",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 40.09",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.80 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Unisex Cruiser Hoodie",
+        "Brand": "Stanley Stella STSU822",
+        "Providers": [
+            {
+                "Provider name": "Textildruck Europa",
+                "Price": "From USD 38.40",
+                "Shipping cost": "From USD 4.70",
+                "Sizes": "S - 3XL",
+                "Average production time": "3.10 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Men\u2019s Base Longsleeve Tee",
+        "Brand": "AS Colour 5029",
+        "Providers": [
+            {
+                "Provider name": "The Print Bar",
+                "Price": "From USD 19.85",
+                "Shipping cost": "From USD 6.45",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Champion Sweatshirt",
+        "Brand": "Champion S600",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 27.39",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    },
+    {
+        "Product name": "Champion Hoodie",
+        "Brand": "Champion S700",
+        "Providers": [
+            {
+                "Provider name": "Awkward Styles",
+                "Price": "From USD 34.70",
+                "Shipping cost": "From USD 9.40",
+                "Sizes": "S - 2XL",
+                "Average production time": "2.90 business days"
+            }
+        ]
+    }
+]
