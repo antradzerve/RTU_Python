@@ -5,8 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-import pandas as pd
-import dbm
 import time
 import json
 
@@ -15,7 +13,7 @@ option.add_argument(' — incognito')
 
 # does the task without opening browser window, but something lagged
 # option.add_argument('headless')
-driver = webdriver.Chrome(executable_path='chromedriver', chrome_options=option)
+driver = webdriver.Chrome(executable_path='chromedriver.exe', chrome_options=option)
 
 driver.get('https://printify.com/app/products')
 
@@ -55,6 +53,8 @@ link_list = []
 for clothing in clothing_full_list:
     elem = clothing.find_elements_by_tag_name('a')[0]
     link_list.append(elem.get_attribute('href'))
+
+link_list = list(set(link_list))
 
 scraped_info = []
 
@@ -97,7 +97,7 @@ for link in link_list:
 
     scraped_info.append(product_info)
 
-with open('data.json', 'w') as output_file:
+with open('data1.json', 'w') as output_file:
     json.dump(scraped_info, output_file)
 
 driver.quit()
